@@ -13,3 +13,7 @@ import numpy as np
 import tensorflow as tf
 from simple_cnn import SimpleCNN
 ```
+- os: Used for file path manipulations.
+- numpy: Utilized for numerical operations.
+- tensorflow: Employed for high-level neural network operations.
+- SimpleCNN: Custom class defined in simple_cnn.py for the CNN implementation.
