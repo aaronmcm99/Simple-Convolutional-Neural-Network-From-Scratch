@@ -1,0 +1,2 @@
+# Simple-Convolutional-Neural-Network-From-Scratch
+ This repository contains an implementation of a Convolutional Neural Network (CNN) from scratch, designed to work with the MNIST dataset. After previously creating a fully connected neural network from scratch, I decided to extend my work by implementing the convolutional and pooling layers (both forward and backward passes) from scratch. For efficiency, I used TensorFlow for the fully connected layer. You can find my previous project here: https://github.com/aaronmcm99/NeuralNetworkFromScratch
